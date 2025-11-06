@@ -48,8 +48,8 @@ The main curriculum, covering a wide range of programming topics.
 | **Rank 00** | | | |
 | `Libft` | Creating a personal library of useful C functions. | ✅ Finished | 125% |
 | **Rank 01** | | | |
-| `ft_printf` | Recoding the `printf` function. | ⏳ In Progress | - |
-| `get_next_line` | Reading a line from a file descriptor. | ❌ Not Started | - |
+| `ft_printf` | Recoding the `printf` function. | ✅ Finished | 100% |
+| `get_next_line` | Reading a line from a file descriptor. | ⏳ In Progress | - |
 | `Born2beroot` | Setting up a virtual machine with specific services. |  ❌ Not Started | - |
 | **Rank 02** | | | |
 | `so_long` | Creating a simple 2D game. | ❌ Not Started | - |
