@@ -57,8 +57,8 @@ git checkout main
 ```
 You will now have a 1337-projects directory that contains only the get_next_line folder. Then, cd get_next_line.
 
-Option B: Clone All Projects (Full Clone)
-if you want to download all 42 projects in the repository (including this one), use a standard git clone.
+#### Option B: Clone All Projects (Full Clone)
+if you want to clone all my 1337/42 projects in the repository (including this one), use a standard git clone.
 ```bash
 # 1.Clone the repo
 git clone https://github.com/Mustapha-Nkhili/1337-projects.git
