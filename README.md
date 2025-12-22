@@ -50,10 +50,10 @@ The main curriculum, covering a wide range of programming topics.
 | **Rank 01** | | | |
 | `ft_printf` | Recoding the `printf` function. | ✅ Finished | 100% |
 | `get_next_line` | Reading a line from a file descriptor. | ✅ Finished | 125% |
-| `Born2beroot` | Setting up a virtual machine with specific services. |  ⏳ In Progress | - |
+| `Born2beroot` | Setting up a virtual machine with specific services. |  ✅ Finished | 125% |
 | **Rank 02** | | | |
 | `so_long` | Creating a simple 2D game. | ❌ Not Started | - |
-| `push_swap` | Sorting a stack of numbers with limited operations. | ❌ Not Started | - |
+| `push_swap` | Sorting a stack of numbers with limited operations. | ⏳ In Progress | - |
 | `minitalk` | Client-server communication using only UNIX signals. | ❌ Not Started | - |
 | **Rank 03** | | | |
 | `philosophers` | Solving the "Dining Philosophers" problem with threads. | ❌ Not Started | - |
